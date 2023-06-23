@@ -1,0 +1,14 @@
+{
+  "name": "simple-whitelist",
+  "version": "1.0.0",
+  "description": "simple fivem whitelist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "only1337",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
